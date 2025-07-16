@@ -1,4 +1,4 @@
-# (DEPRECATED. CHECK https://github.com/ETH-Unity/ETH-WEB FOR NEWEST RELEASE.) Unity-ETH: Ethereum-Integrated Multiplayer Project
+# (DEPRECATED. CHECK https://github.com/ETH-Unity/ETH-WEB FOR NEWEST RELEASE.)
 
 Unity-ETH is a Unity project that combines multiplayer gaming capabilities using Unity's Netcode for GameObjects with Ethereum blockchain integration. This project enables players to interact within a multiplayer environment while facilitating Ethereum transactions directly from the Unity application.
 
